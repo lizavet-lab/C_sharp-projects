@@ -1,0 +1,82 @@
+C:\Users\shoo\Desktop\Банников\Alg_Fleury\Alg_Fleury\bin\Debug\Alg_Fleury.exe.config
+C:\Users\shoo\Desktop\Банников\Alg_Fleury\Alg_Fleury\bin\Debug\Alg_Fleury.exe
+C:\Users\shoo\Desktop\Банников\Alg_Fleury\Alg_Fleury\bin\Debug\Alg_Fleury.pdb
+C:\Users\shoo\Desktop\Банников\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.Form1.resources
+C:\Users\shoo\Desktop\Банников\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.Properties.Resources.resources
+C:\Users\shoo\Desktop\Банников\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.csproj.GenerateResource.cache
+C:\Users\shoo\Desktop\Банников\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.exe
+C:\Users\shoo\Desktop\Банников\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.pdb
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\Alg_Fleury.exe.config
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\Alg_Fleury.exe
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\Alg_Fleury.pdb
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.Form1.resources
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.Properties.Resources.resources
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.csproj.GenerateResource.cache
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.exe
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.pdb
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\GeneticSharp.Domain.dll
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\GeneticSharp.Infrastructure.Framework.dll
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.csproj.CopyComplete
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\GeneticAlgorithm.dll
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\AForge.Neuro.dll
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\Common.dll
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\GeneticAlgorithms.dll
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.dll
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\Common.pdb
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\GeneticAlgorithms.pdb
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.pdb
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.xml
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.Form2.resources
+C:\Users\shoo\Desktop\Банников А.С\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.csprojAssemblyReference.cache
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\bin\Debug\Alg_Fleury.exe.config
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\bin\Debug\Alg_Fleury.exe
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\bin\Debug\Alg_Fleury.pdb
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\bin\Debug\GeneticAlgorithm.dll
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\bin\Debug\GeneticSharp.Domain.dll
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\bin\Debug\GeneticSharp.Infrastructure.Framework.dll
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.dll
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.pdb
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.xml
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.Form1.resources
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.Form2.resources
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.Properties.Resources.resources
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.csproj.GenerateResource.cache
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.csproj.CopyComplete
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.exe
+C:\Users\shoo\Desktop\Alg_Fleury\Alg_Fleury\obj\Debug\Alg_Fleury.pdb
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\bin\Debug\Alg_Fleury.exe.config
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\bin\Debug\Alg_Fleury.exe
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\bin\Debug\Alg_Fleury.pdb
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\bin\Debug\GeneticAlgorithm.dll
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\bin\Debug\GeneticSharp.Domain.dll
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\bin\Debug\GeneticSharp.Infrastructure.Framework.dll
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\bin\Debug\LiveCharts.dll
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\bin\Debug\LiveCharts.pdb
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\bin\Debug\LiveCharts.xml
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\obj\Debug\Alg_Fleury.csprojAssemblyReference.cache
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\obj\Debug\Alg_Fleury.Form1.resources
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\obj\Debug\Alg_Fleury.Form2.resources
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\obj\Debug\Alg_Fleury.Properties.Resources.resources
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\obj\Debug\Alg_Fleury.csproj.GenerateResource.cache
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\obj\Debug\Alg_Fleury.csproj.CoreCompileInputs.cache
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\obj\Debug\Alg_Fleury.csproj.CopyComplete
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\obj\Debug\Alg_Fleury.exe
+C:\Users\lizgn\OneDrive\Рабочий стол\Учеба\диплом\Alg_Fleury\obj\Debug\Alg_Fleury.pdb
